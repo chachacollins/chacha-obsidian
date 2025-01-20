@@ -5,9 +5,9 @@ body {
 
 .theme-dark {
 	/* Base colors */
-	--background-primary: #080808;
-	--background-secondary: #080808;
-	--background-secondary-alt: #080808;
+	--background-primary: #050505;
+	--background-secondary: var(--background-primary);
+	--background-secondary-alt: var(--background-secondary);
 		
 	--text-normal: #C6C6C6;
 	--text-faint: #767676;
@@ -58,7 +58,7 @@ body {
     --code-constant: #C30771;
     --code-comment: #767676;
     --code-url: #008EC4;
-	--code-background: #f5f2f2;
+	--code-background: #ecebeb;
     
     /* UI */
     --interactive-accent: #C30771;
@@ -73,4 +73,3 @@ body {
 .cm-header-4, .cm-header-5, .cm-header-6 {
 	color: var(--text-accent) !important;
 }
-
