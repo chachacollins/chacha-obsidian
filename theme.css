@@ -9,7 +9,7 @@ body {
 	--background-secondary: var(--background-primary);
 	--background-secondary-alt: var(--background-secondary);
 		
-	--text-normal: #C6C6C6;
+	--text-normal: #d6d4d4;
 	--text-faint: #767676;
 	--text-accent: #d75f87;
 	--text-selection: #da5c8133;
@@ -39,12 +39,12 @@ body {
 .theme-light {
 	/* Base colors */
     --background-primary: #FFFFFF;
-    --background-secondary: #EEEEEE;
+    --background-secondary: var(--background-primary);
     --background-secondary-alt: #C6C6C6;
     
     --text-normal: #262626;
     --text-faint: #767676;
-    --text-accent: #da5c81;
+    --text-accent: #d75f87;
     --text-selection: #da5c8133;
     
     /* Code */
@@ -54,15 +54,15 @@ body {
     --code-operator: var(--text-normal);
     --code-keyword: #767676;
     --code-function: var(--text-normal);
-    --code-string: #da5c81;
-    --code-constant: #C30771;
+    --code-string: #d75f87;
+    --code-constant: #d75f87;
     --code-comment: #767676;
     --code-url: #008EC4;
 	--code-background: #ecebeb;
     
     /* UI */
-    --interactive-accent: #C30771;
-    --interactive-before: #A8A8A8;
+    --interactive-accent: #da5c81;
+    --interactive-before: #4E4E4E;
     --scrollbar-bg: #EEEEEE;
 
 	--nav-item-background-active: #e25f86;
