@@ -27,7 +27,7 @@ You can install this theme in two ways:
 ```
 git clone https://github.com/babidisrc/obsidian-sunbather.git
 ```
-If the `.obsidian/themes folder` doesn't exist, create it first.
+If the `.obsidian/themes` folder doesn't exist, create it first.
 
 2. Open Obsidian and go to Settings → Appearance  →  Themes.
 
