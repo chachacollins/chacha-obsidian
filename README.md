@@ -1,4 +1,4 @@
-# obsidian-sunbather
+# Sunbather
 
 ![screenshot](screenshot.png)
 
