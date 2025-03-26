@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-A minimal pink theme for Obsidian based on [vim-sunbather theme][].
+A minimal pink theme for Obsidian based on [vim-sunbather theme](https://github.com/nikolvs/vim-sunbather).
 
 [vim-sunbather theme]: https://github.com/nikolvs/vim-sunbather
 
@@ -25,7 +25,7 @@ You can install this theme in two ways:
 1. Clone this repo in your `.obsidian/themes` folder
 
 ```
-git clone https://github.com/babidisrc/obsidian-sunbather.git
+git clone https://github.com/chachacollins/obsidian-sunbather.git
 ```
 If the `.obsidian/themes` folder doesn't exist, create it first.
 
@@ -36,3 +36,6 @@ If the `.obsidian/themes` folder doesn't exist, create it first.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Credit
+credit to [babidisrc](https://github.com/babidisrc) for the first version of this theme.
