@@ -25,7 +25,7 @@ You can install this theme in two ways:
 1. Clone this repo in your `.obsidian/themes` folder
 
 ```
-git clone https://github.com/chachacollins/obsidian-sunbather.git
+git clone https://github.com/chachacollins/chacha-obsidian.git
 ```
 If the `.obsidian/themes` folder doesn't exist, create it first.
 
